@@ -1,0 +1,11 @@
+# Restaurant Management System
+# No external packages are required - everything used (sqlite3, tkinter)
+# is part of Python's standard library.
+#
+# Just make sure you're using Python 3.8 or newer.
+#
+# On some Linux distros, tkinter is a separate OS package. If gui_app.py
+# gives "No module named 'tkinter'", install it with:
+#   Ubuntu/Debian:  sudo apt-get install python3-tk
+#   Fedora:         sudo dnf install python3-tkinter
+#   macOS/Windows:  tkinter is already included with the official Python installer
